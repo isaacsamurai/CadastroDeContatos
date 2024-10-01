@@ -7,6 +7,7 @@ namespace CadastroDeContatos.Controllers
         public IActionResult Index()
         {
             return View();
+
         }
 
         public IActionResult Criar()
